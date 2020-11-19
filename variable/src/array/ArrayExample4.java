@@ -17,12 +17,6 @@ public class ArrayExample4 {
 			}
 		}
 
-		int[][] intAry2 = { //
-				{ 11, 12, 13 }, //
-				{ 21 }, //
-				{ 31, 32 } //
-		};
-		System.out.println(intAry[2].length);
 	}
 //intAry2의 배열의 각 합, 평균을 구하시오.
 	

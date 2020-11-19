@@ -22,6 +22,6 @@ public class ArrayExample2 {
 		for (double num : ary) {
 			 Sum += num;	 
 		}
-		return ;
+		return 0;
 	}
 }
